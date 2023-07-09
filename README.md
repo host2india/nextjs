@@ -14,11 +14,9 @@ To run the development server, use the following command:
 
 Open the following URLs in your browser to see the corresponding results:
 
-<h1 align="center">
-  <span style="color:#61DAFB">http://localhost:3000/blog - View the blog page.
+http://localhost:3000/blog - View the blog page.
 http://localhost:3000/dashboard - View the dashboard page.
-To navigate the Authentication Models, open http://localhost:3000 in your browser.</span>
-</h1>
+To navigate the Authentication Models, open http://localhost:3000 in your browser.
 
 
 You can start editing the page by modifying the files in the pages directory. The page will auto-update as you make changes.
