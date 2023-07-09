@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 
-const uri = 'mongodb+srv://mintdollars:lUI4SmgYjh1cEbZ4@nextauth.5dyiz2b.mongodb.net/?retryWrites=true&w=majority'; // Replace with your MongoDB connection URI
-const dbName = 'mintdollars'; // Replace with your MongoDB database name
+const uri = 'mongodb+srv://coolmango:mango4u@nextauth.5dyiz2b.mongodb.net/?retryWrites=true&w=majority'; // Replace with your MongoDB connection URI
+const dbName = 'coolmango'; // Replace with your MongoDB database name
 const collectionName = 'NextAuth'; // Replace with your MongoDB collection name
 
 // Function to establish a MongoDB connection
