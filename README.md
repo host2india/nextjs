@@ -1,6 +1,8 @@
-# Next.js Project
+<h1 align="center">
+  <span style="color:#61DAFB">Next.js Project</span>
+</h1>
 
-This is a Next.js project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Next.js project bootstrapped with <a href="https://github.com/vercel/next.js/tree/canary/packages/create-next-app" style="color:#61DAFB">create-next-app</a>.
 
 ## Getting Started
 
@@ -8,13 +10,14 @@ To run the development server:
 
 ```bash
 npm run dev
+Open http://localhost:3000/blog or http://localhost:3000/dashboard in your browser to see the result.
 
-Open http://localhost:3000 in your browser to see the result.
+Open http://localhost:3000 to navigate Authentication Models.
 
 You can start editing the page by modifying the files in the pages directory. The page auto-updates as you edit the file.
 
 API Routes
-API routes can be accessed at http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
+API routes can be accessed at http://localhost:3000/protected.
 
 The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
 
