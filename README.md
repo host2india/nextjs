@@ -6,12 +6,10 @@ This is a Next.js project bootstrapped with <a href="https://github.com/vercel/n
 
 
 Getting Started
+
 To run the development server, use the following command:
 
-bash
-Copy code
-npm run dev
-Save to grepper
+
 Open the following URLs in your browser to see the corresponding results:
 
 http://localhost:3000/blog - View the blog page.
