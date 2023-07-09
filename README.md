@@ -4,17 +4,21 @@
 
 This is a Next.js project bootstrapped with <a href="https://github.com/vercel/next.js/tree/canary/packages/create-next-app" style="color:#61DAFB">create-next-app</a>.
 
-## Getting Started
 
-To run the development server:
+Getting Started
+To run the development server, use the following command:
 
-```bash
+bash
+Copy code
 npm run dev
-Open http://localhost:3000/blog or http://localhost:3000/dashboard in your browser to see the result.
+Save to grepper
+Open the following URLs in your browser to see the corresponding results:
 
-Open http://localhost:3000 to navigate Authentication Models.
+http://localhost:3000/blog - View the blog page.
+http://localhost:3000/dashboard - View the dashboard page.
+To navigate the Authentication Models, open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying the files in the pages directory. The page auto-updates as you edit the file.
+You can start editing the page by modifying the files in the pages directory. The page will auto-update as you make changes.
 
 API Routes
 API routes can be accessed at http://localhost:3000/protected.
